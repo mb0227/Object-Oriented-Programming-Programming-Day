@@ -1,0 +1,7 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\bin\Debug\AppWeek2.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\bin\Debug\AppWeek2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\bin\Debug\AppWeek2.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\obj\Debug\AppWeek2.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\obj\Debug\AppWeek2.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\obj\Debug\AppWeek2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 2\AppWeek2\AppWeek2\obj\Debug\AppWeek2.pdb
