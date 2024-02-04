@@ -1,0 +1,7 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\bin\Debug\Calculator.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\obj\Debug\Calculator.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Calculator\Calculator\obj\Debug\Calculator.pdb

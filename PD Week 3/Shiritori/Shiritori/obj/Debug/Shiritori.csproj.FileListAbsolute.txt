@@ -1,0 +1,7 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\bin\Debug\Shiritori.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\Shiritori\Shiritori\obj\Debug\Shiritori.pdb

@@ -1,0 +1,7 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 3\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
