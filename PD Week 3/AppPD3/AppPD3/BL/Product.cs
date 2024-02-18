@@ -16,7 +16,6 @@ namespace AppPD3
 
         public Product()
         {
-
         }
 
         public Product(string name, double price, double quantity, string brandName)
