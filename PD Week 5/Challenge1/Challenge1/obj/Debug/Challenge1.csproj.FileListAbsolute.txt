@@ -1,0 +1,14 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Challenge1\Challenge1\obj\Debug\Challenge1.pdb

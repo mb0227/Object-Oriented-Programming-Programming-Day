@@ -1,0 +1,14 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\bin\Debug\Task 2.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\bin\Debug\Task 2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\bin\Debug\Task 2.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\obj\Debug\Task 2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 2\Task 2\obj\Debug\Task 2.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\bin\Debug\Task 2.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\bin\Debug\Task 2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\bin\Debug\Task 2.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\obj\Debug\Task 2.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\obj\Debug\Task 2.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 3\Task 2\obj\Debug\Task 2.pdb

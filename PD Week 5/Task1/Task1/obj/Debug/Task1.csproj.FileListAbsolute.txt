@@ -1,0 +1,14 @@
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\bin\Debug\Task1.exe.config
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\bin\Debug\Task1.exe
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\bin\Debug\Task1.pdb
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\obj\Debug\Task1.exe
+A:\University Related\UET Lahore\2nd Semester\Object Oriented Programming\Lab\Lab 5\Week 5\Task1\Task1\obj\Debug\Task1.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\bin\Debug\Task1.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\bin\Debug\Task1.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\bin\Debug\Task1.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\obj\Debug\Task1.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 5\Task1\Task1\obj\Debug\Task1.pdb

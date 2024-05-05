@@ -1,0 +1,7 @@
+CS,2,123,Theory
+CS,2,120,Theory
+CS,2,12,theory
+ce,2,120,theory
+cs,2,12,theory
+CS,2,120,tHEORY
+ComputerScience,3,120,Theory

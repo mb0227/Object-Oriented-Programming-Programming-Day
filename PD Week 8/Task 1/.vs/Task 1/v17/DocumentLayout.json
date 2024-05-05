@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\challenge3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\challenge3\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\challenge3\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\challenge3\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|a:\\university related\\uet lahore\\2nd semester\\programming day\\pd week 8\\task 1\\challenge3\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\dl\\studentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\challenge3\\dl\\staffdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7682000-39BE-4D95-810F-FDB1C0FEEE81}|Challenge3\\Challenge3.csproj|solutionrelative:challenge3\\dl\\staffdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge3\\Program.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\Program.cs",
+              "RelativeToolTip": "Challenge3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:28:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDL.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\DL\\StudentDL.cs",
+              "RelativeDocumentMoniker": "Challenge3\\DL\\StudentDL.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\DL\\StudentDL.cs",
+              "RelativeToolTip": "Challenge3\\DL\\StudentDL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:35:25.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffDL.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\DL\\StaffDL.cs",
+              "RelativeDocumentMoniker": "Challenge3\\DL\\StaffDL.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\DL\\StaffDL.cs",
+              "RelativeToolTip": "Challenge3\\DL\\StaffDL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:34:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Staff.cs",
+              "RelativeDocumentMoniker": "Challenge3\\BL\\Staff.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Staff.cs",
+              "RelativeToolTip": "Challenge3\\BL\\Staff.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:31:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "Challenge3\\BL\\Student.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Student.cs",
+              "RelativeToolTip": "Challenge3\\BL\\Student.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwDcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:31:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Person.cs",
+              "RelativeDocumentMoniker": "Challenge3\\BL\\Person.cs",
+              "ToolTip": "A:\\University Related\\UET Lahore\\2nd Semester\\Programming Day\\PD Week 8\\Task 1\\Challenge3\\BL\\Person.cs",
+              "RelativeToolTip": "Challenge3\\BL\\Person.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:31:14.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\bin\Debug\MagicalDuel.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\bin\Debug\MagicalDuel.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\bin\Debug\MagicalDuel.pdb
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\obj\Debug\MagicalDuel.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\obj\Debug\MagicalDuel.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\obj\Debug\MagicalDuel.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK4\MagicalDuel\MagicalDuel\obj\Debug\MagicalDuel.pdb

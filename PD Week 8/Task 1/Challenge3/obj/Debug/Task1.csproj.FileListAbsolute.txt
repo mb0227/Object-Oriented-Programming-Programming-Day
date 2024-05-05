@@ -1,0 +1,7 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\bin\Debug\Challenge3.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\bin\Debug\Challenge3.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\bin\Debug\Challenge3.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\obj\Debug\Task1.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\obj\Debug\Challenge3.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 8\Task 1\Challenge3\obj\Debug\Challenge3.pdb

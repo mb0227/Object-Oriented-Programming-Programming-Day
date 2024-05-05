@@ -1,0 +1,7 @@
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\bin\Debug\ClassesConversion.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\bin\Debug\ClassesConversion.exe
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\bin\Debug\ClassesConversion.pdb
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\obj\Debug\ClassesConversion.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\obj\Debug\ClassesConversion.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\obj\Debug\ClassesConversion.exe
+C:\SEMESTER 2\OOP\OOP Projects\ClassesConversion\ClassesConversion\obj\Debug\ClassesConversion.pdb

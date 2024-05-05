@@ -1,0 +1,10 @@
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\bin\Debug\GameConversion.exe.config
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\bin\Debug\GameConversion.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\bin\Debug\GameConversion.pdb
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\bin\Debug\EZInput.dll
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\bin\Debug\EZInput.xml
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\obj\Debug\GameConversion.csproj.AssemblyReference.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\obj\Debug\GameConversion.csproj.CoreCompileInputs.cache
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\obj\Debug\GameConversion.csproj.CopyComplete
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\obj\Debug\GameConversion.exe
+C:\SEMESTER 2\OOP\OOP Projects\PD\PDWEEK2\GameConversion\GameConversion\obj\Debug\GameConversion.pdb
